@@ -1,5 +1,8 @@
 # Default Middleman Project Template
 
-This is the [Middleman] template used when you run `middleman init`.
+
+Patch for Windows x64 Ruby2.4
+
+    middleman init . -T https://github.com/felinebabies/middleman-templates-default.git
 
 [Middleman]: https://middlemanapp.com/
